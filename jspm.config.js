@@ -41,6 +41,7 @@ SystemJS.config({
     "stream": "github:jspm/nodelibs-stream@0.2.0-alpha",
     "string_decoder": "github:jspm/nodelibs-string_decoder@0.2.0-alpha",
     "ts": "github:frankwallis/plugin-typescript@4.0.2",
+    "typescript": "npm:typescript@1.8.7",
     "util": "github:jspm/nodelibs-util@0.2.0-alpha",
     "vm": "github:jspm/nodelibs-vm@0.2.0-alpha",
     "zone.js": "npm:zone.js@0.5.15"
